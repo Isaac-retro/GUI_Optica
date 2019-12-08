@@ -1,0 +1,11 @@
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\bin\Debug\GUI_Optica_app_net_framework.exe.config
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\bin\Debug\GUI_Optica_app_net_framework.exe
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\bin\Debug\GUI_Optica_app_net_framework.pdb
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\obj\Debug\GUI_Optica_app_net_framework.csprojAssemblyReference.cache
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\obj\Debug\GUI_Optica_app_net_framework.Login.resources
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\obj\Debug\GUI_Optica_app_net_framework.Properties.Resources.resources
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\obj\Debug\GUI_Optica_app_net_framework.csproj.GenerateResource.cache
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\obj\Debug\GUI_Optica_app_net_framework.exe
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\obj\Debug\GUI_Optica_app_net_framework.pdb
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\obj\Debug\GUI_Optica_app_net_framework.Main_view.resources
+C:\Users\willa\source\repos\GUI_Optica_app_net_framework\GUI_Optica_app_net_framework\obj\Debug\GUI_Optica_app_net_framework.view.sales.Sales.resources
